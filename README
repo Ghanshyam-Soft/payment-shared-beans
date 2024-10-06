@@ -1,0 +1,3 @@
+The dependency for the database related code (as well as a few other minor shared pieces of code).
+
+Please see the README in the Payments Parent repo for more information.
